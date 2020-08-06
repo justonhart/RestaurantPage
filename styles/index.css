@@ -77,6 +77,18 @@ header ul li button{
     margin-top: 3.25%;
 }
 
+#contactContainer{
+    padding: 15px;
+    color: white;
+    width: 75%;
+    background-color: rgba(0,0,0, 0.75);
+    border-radius: 15px;
+    font-size: large;
+    margin-top: 3.25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .itemName{
     float:left;
     margin-block-start: 0;
