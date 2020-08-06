@@ -19,7 +19,7 @@ const renderHomepage = (() => {
     homebox.appendChild(review);
 
     let image = document.createElement('img');
-    image.setAttribute('src', '../table.jpg');
+    image.setAttribute('src', 'table.jpg');
     homebox.appendChild(image);
 });
 
